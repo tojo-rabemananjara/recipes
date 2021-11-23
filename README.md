@@ -14,5 +14,5 @@ Recipe collection. Features include: add recipe to favorites, remove recipe from
 
 ## Launch
 
-Go to `tojo-recipes.surge.sh`
+Go to https://tojo-recipes.surge.sh
 
